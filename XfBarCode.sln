@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XfBarCode.Android", "XfBarCode.Android\XfBarCode.Android.csproj", "{5510BCFE-E070-45D4-81A1-9CB727EFFE49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XfBarCode", "XfBarCode\XfBarCode.csproj", "{412C3F2D-9F73-4E66-917A-5D5A93FE37BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5510BCFE-E070-45D4-81A1-9CB727EFFE49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5510BCFE-E070-45D4-81A1-9CB727EFFE49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5510BCFE-E070-45D4-81A1-9CB727EFFE49}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5510BCFE-E070-45D4-81A1-9CB727EFFE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5510BCFE-E070-45D4-81A1-9CB727EFFE49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5510BCFE-E070-45D4-81A1-9CB727EFFE49}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{412C3F2D-9F73-4E66-917A-5D5A93FE37BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{412C3F2D-9F73-4E66-917A-5D5A93FE37BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{412C3F2D-9F73-4E66-917A-5D5A93FE37BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{412C3F2D-9F73-4E66-917A-5D5A93FE37BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C381AA5-2270-4277-A6FF-724E9A645245}
+	EndGlobalSection
+EndGlobal
